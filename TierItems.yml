@@ -1,0 +1,55 @@
+Tiers:
+  1:
+    chance: 100.0
+    items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: LIME_SHULKER_BOX
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: §eVoid Chest §7[§a1〣§7]
+        lore:
+        - '§7When placed, this chest will '
+        - '§7sell all of it''s contents '
+        - §7every §e30 seconds§7.
+        - §o
+        - §9§lRARE
+        internal: H4sIAAAAAAAAAONiYOBg4CzLz0xJzkgtLmFgNGQAAEvfDzATAAAA
+        blockMaterial: LIME_SHULKER_BOX
+  2:
+    chance: 50.0
+    items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: LIGHT_BLUE_SHULKER_BOX
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: §eVoid Chest §7[§b3〣§7]
+        lore:
+        - '§7When placed, this chest will '
+        - '§7sell all of it''s contents '
+        - §7every §e10 seconds§7.
+        - §o
+        - §d§lEPIC
+        internal: H4sIAAAAAAAAAONiYOBg4CzLz0xJzkgtLmFgNGYAAMm9OQITAAAA
+        blockMaterial: LIGHT_BLUE_SHULKER_BOX
+  3:
+    chance: 10.0
+    items:
+    - ==: org.bukkit.inventory.ItemStack
+      type: ORANGE_SHULKER_BOX
+      meta:
+        ==: ItemMeta
+        meta-type: TILE_ENTITY
+        display-name: §eVoid Chest §7[§66〣§7]
+        lore:
+        - '§7When placed, this chest will '
+        - '§7sell all of it''s contents '
+        - §7every §e3 seconds§7.
+        - §o
+        - '§7The contents will be sold '
+        - §7with a §d5% sell booster§7.
+        - §o
+        - §6§lLEGENDARY
+        internal: H4sIAAAAAAAAAONiYOBg4CzLz0xJzkgtLmFgNGMAAIxJTn8TAAAA
+        blockMaterial: ORANGE_SHULKER_BOX

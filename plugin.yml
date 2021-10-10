@@ -1,0 +1,12 @@
+name: MafEnvoys
+version: 1.0
+main: me.mafkees92.mafenvoys.Main
+author: mafkees92
+description: MafkeesEnvoys
+commands:
+   envoys:
+      description: envoys command
+      usage: /<command>
+      
+softdepends: [MVdWPlaceholderAPI, PlaceholderAPI, Vault]
+depend: [WorldGuard, Multiverse-Core, ProtocolLib, HolographicDisplays, HeadDatabase]

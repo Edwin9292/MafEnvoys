@@ -1,0 +1,27 @@
+
+noPermission: '&cYou dont have permission to use this command.'
+claimedCrate: '&7Player {name} claimed a tier {tier_name} envoy! There are now {amount_left} envoys left.'
+allCratesClaimed: '&7All envoys have been claimed!'
+  
+singleEnvoySpawned: '&7A &atier {tier_name} &7envoy has been spawned at [World:{world_name} X:{location_X} Z:{location_Z}].' 
+  
+envoyHologramLines: 
+  - '&e&lEnvoy Chest &7[&a{tier_name}〣&7]'
+  - 'Click to claim!'
+
+timerMessages:
+  1: "&7Envoys spawning in 1 second!"
+  2: "&7Envoys spawning in 2 seconds!"
+  3: "&7Envoys spawning in 3 seconds!"
+  10: "&7Envoys spawning in 10 seconds!"
+  30: "&7Envoys spawning in 30 seconds!"
+  60: "&7Envoys spawning in 60 seconds!"
+  300: "&7Envoys spawning in 5 minutes!"
+  600: "&7Envoys spawning in 10 minutes!"
+  1800: "&7Envoys spawning in 30 minutes!"
+
+
+
+
+
+  

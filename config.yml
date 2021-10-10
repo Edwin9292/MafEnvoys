@@ -1,0 +1,16 @@
+#Config Maf Envoys
+
+
+envoyTimer: 3600  # time in seconds between envoys  (3600 = 1hr)
+
+spawnPoints:
+  worldGuard:
+    example:
+      world: 'SkyBlock'
+      region: 'mafkeesisland'  #name of the region
+      amount: 2   # amount of chests to spawn 
+      timesToTry: 5 #times to try to find a valid location to spawn a chest, if no valid location is found after 5 times, no chest will spawn that loop. 
+      
+      
+  fixedLocations: # not implemented yet
+  
